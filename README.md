@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm Farman, a Computer Science student at The University of Texas at Dallas, set to graduate in May 2025. I'm passionate about AI, machine learning, and underwater robotics. My goal is to leverage technology to solve real-world problems and make a positive impact.
+Hi there! I'm Farman, a Computer Science student at The University of Texas at Dallas, set to graduate in December 2025. I'm passionate about AI, machine learning, and underwater robotics. My goal is to leverage technology to solve real-world problems and make a positive impact.
 
 ## 🛠 Technical Skills
 
