@@ -26,7 +26,7 @@ Hi there! I'm Farman, a Computer Science student at The University of Texas at D
 
 ## 🏆 Leadership
 
-- **Education Officer** at Association for Computing Machinery (UTD)
+- **Director Of Education** at Association for Computing Machinery (UTD)
 - **Event Coordinator** at RoboSub (UTD)
 
 ## 📫 Get in Touch
