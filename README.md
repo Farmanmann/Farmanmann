@@ -1,37 +1,66 @@
-# Farman Ali
 
-📚 Computer Science Student | 🤖 Robotics Enthusiast | 🧠 AI/ML Researcher
+# Farman Ali | Software Developer & Researcher
 
-## 👋 About Me
+## 🌐 Contact Information
+- **Location:** Dallas, Texas
+- **Citizenship:** US Citizen
+- **Phone:** 281-903-4718
+- **Email:** farmannoorali2@gmail.com
+- **LinkedIn:** [farmannoorali](https://linkedin.com/in/farmannoorali/)
+- **GitHub:** [Farmanmann](https://github.com/Farmanmann)
 
-Hi there! I'm Farman, a Computer Science student at The University of Texas at Dallas, set to graduate in December 2025. I'm passionate about AI, machine learning, and underwater robotics. My goal is to leverage technology to solve real-world problems and make a positive impact.
+## 🎓 Education
+**Bachelor of Science in Computer Science**
+University of Texas at Dallas | Aug 2021 - Dec 2025
 
-## 🛠 Technical Skills
+### Relevant Coursework
+- Data Structures and Algorithmic Analysis
+- Advanced Algorithms Design and Analysis
+- Systems Programming in UNIX
+- Software Engineering
+- Computer Architecture
+- Database Systems
+- Artificial Intelligence
 
-- **Languages:** Java, Javascript, Python, C#, C++, HTML, CSS, SQL, PHP, ProLog, Scheme
-- **Frameworks:** React.js, Node.js, YOLOv7
-- **Libraries:** openCV, NumPy, PyTorch, Pandas, Jetson-GPIO, RPi.GPIO
-- **Developer Tools:** Git, Ubuntu, Docker, MongoDB
+## 🚀 Projects
 
-## 🚀 Featured Projects
+### Oil Well Monitoring System
+**Technologies:** FastAPI, React, Server-Sent Events (SSE)
+- Developed a real-time monitoring infrastructure for 9 oil wells
+- Engineered interactive dashboards capable of processing 24,000 data points
+- Implemented continuous data updates with sub-second latency
 
-### Marine Trash Detection
-- Developed a YOLOv7-based object detection system for marine environments
-- Achieved 90% recall rate and 80% detection rate on mAP@[.5, .95]
-- Optimized model performance, reducing detection time by 40%
+### Sign Language Translator
+**Technologies:** Deep Learning, Convolutional Neural Networks (CNNs)
+- Created an AI-powered sign language letter recognition system
+- Achieved remarkable performance metrics:
+  - 90.78% test accuracy
+  - 89.85% mean average precision
+- Optimized model using cross-entropy loss and Adam optimizer
 
-### RoboSub: Underwater Robotics
-- Building a ROS-based system for autonomous underwater vehicle control
-- Created a website for sponsorship and general club information
+### Marine Trash Detection System
+**Technologies:** Python, YOLOv7, Computer Vision
+- Developed an object detection solution for marine environment analysis
+- Implemented advanced detection algorithms with 90% recall rate
+- Enhanced model performance through strategic data augmentation
 
 ## 🏆 Leadership
 
-- **Director Of Education** at Association for Computing Machinery (UTD)
-- **Event Coordinator** at RoboSub (UTD)
+### Director of Education | Association for Computing Machinery at UTD
+- Led 150+ member Mentorship Program with 85% mentee career goal success
+- Organized 10+ events benefiting over 75% of students
 
-## 📫 Get in Touch
+## 💻 Technical Skills
 
-- LinkedIn: [www.linkedin.com/in/Farman-Ali](https://www.linkedin.com/in/farman-ali-673386288/)
-- Email: farmannoorali2@gmail.com
+### Programming Languages
+- Java, JavaScript, Python, C#, C++
+- HTML, CSS, SQL, NoSQL, PHP
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
+### Frameworks
+- React.js, Node.js, YOLOv7, Next.js
+
+### Developer Tools
+- Git, Ubuntu, Docker
+- MongoDB, Pandas
+- Microsoft Office Suite
+
