@@ -2,16 +2,8 @@
 # Farman Ali | Software Developer & Researcher
 
 ## 🌐 Contact Information
-- **Location:** Dallas, Texas
-- **Citizenship:** US Citizen
-- **Phone:** 281-903-4718
 - **Email:** farmannoorali2@gmail.com
 - **LinkedIn:** [farmannoorali](https://linkedin.com/in/farmannoorali/)
-- **GitHub:** [Farmanmann](https://github.com/Farmanmann)
-
-## 🎓 Education
-**Bachelor of Science in Computer Science**
-University of Texas at Dallas | Aug 2021 - Dec 2025
 
 ### Relevant Coursework
 - Data Structures and Algorithmic Analysis
@@ -53,8 +45,8 @@ University of Texas at Dallas | Aug 2021 - Dec 2025
 ## 💻 Technical Skills
 
 ### Programming Languages
-- Java, JavaScript, Python, C#, C++
-- HTML, CSS, SQL, NoSQL, PHP
+- Java, JavaScript, Python, C#, C++, C
+- HTML, CSS, SQL, MySQL, NoSQL, PHP, Swift
 
 ### Frameworks
 - React.js, Node.js, YOLOv7, Next.js
@@ -62,5 +54,5 @@ University of Texas at Dallas | Aug 2021 - Dec 2025
 ### Developer Tools
 - Git, Ubuntu, Docker
 - MongoDB, Pandas
-- Microsoft Office Suite
+- RESTful APIs
 
